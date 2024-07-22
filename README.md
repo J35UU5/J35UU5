@@ -1,6 +1,6 @@
 ## Junior developer 👨‍💻
 
-![Banner](./banner.png)
+![Banner](./banner)
 
 <p> Specializing in task automation and application development. My experience includes: </p>
 <p> 🌐 Web app development </p>
