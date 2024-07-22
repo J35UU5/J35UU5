@@ -1,7 +1,7 @@
 ## Junior developer 👨‍💻
 
 
-Specializing in task automation and application development. My experience includes:
+<p> Specializing in task automation and application development. My experience includes:</p>p
 🌐 Web app development
 📊 Data mining program for election analysis
 🖧 Network model design for a multi-branch company
